@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "8cdbd1ddfb7ec892",
+    "type": "split",
+    "children": [
+      {
+        "id": "93aa7dd53e408a60",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kadın doğum/Terimler.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b675d845eedc8d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c2a0388ec7b6442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbf5be1600c5ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a2021da1df40f97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7bd61e53f13f8af",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c4395477cdaf56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d6312bc1bcb3b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kadın doğum/Terimler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b27bbbd74e27c4c9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93aa7dd53e408a60",
+  "lastOpenFiles": [
+    "Kadın doğum/Jinekoloji anamnez.md",
+    "Kadın doğum/Amenore.md",
+    "Kadın doğum/Genel Olaylar.md",
+    "Kadın doğum/Trimester.md",
+    "Kadın doğum/Parite.md",
+    "Kadın doğum/Abortus.md",
+    "Untitled.md",
+    "Olgular/akılcı ilaç diyabet ve ht.md"
+  ]
+}
