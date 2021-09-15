@@ -1,0 +1,1 @@
+ilium, pubis ve ischium un bileşmesinden meydana gelen kemik

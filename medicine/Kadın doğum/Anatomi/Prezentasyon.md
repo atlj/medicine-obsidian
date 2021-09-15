@@ -1,0 +1,1 @@
+Fetüsün doğum kanalına girerken önde olan kısmına prezentasyon denir

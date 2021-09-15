@@ -1,0 +1,1 @@
+Klitoris ve çevresnde gelişecek bir tümör orta hat ve yanlara direkt erişebilir

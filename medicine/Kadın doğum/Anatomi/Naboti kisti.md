@@ -1,0 +1,1 @@
+özellikle multipar hastalarda servikste görülen kistlerdir

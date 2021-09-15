@@ -1,0 +1,1 @@
+ovulasyon 14. günde olur, implantasyon 21. günde olur

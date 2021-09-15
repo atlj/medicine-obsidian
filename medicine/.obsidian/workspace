@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kadın doğum/Terimler.md",
-            "mode": "preview"
+            "file": "Kadın doğum/Anatomi/Prezentasyon.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kadın doğum/Terimler.md",
+                "file": "Kadın doğum/Anatomi/Prezentasyon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +97,15 @@
   },
   "active": "93aa7dd53e408a60",
   "lastOpenFiles": [
-    "Kadın doğum/Jinekoloji anamnez.md",
-    "Kadın doğum/Amenore.md",
-    "Kadın doğum/Genel Olaylar.md",
-    "Kadın doğum/Trimester.md",
-    "Kadın doğum/Parite.md",
-    "Kadın doğum/Abortus.md",
+    "Kadın doğum/Anatomi/Untitled.md",
+    "Kadın doğum/Anatomi/Doğum yolu ve objesi.md",
+    "Kadın doğum/Anatomi/Pelvis Çapları/Orta Pelvisin Çapı.md",
+    "Kadın doğum/Anatomi/Pelvis Çapları/Pelvis Çıkışının Çapı.md",
+    "Kadın doğum/Anatomi/Pelvis Çapları/Pelvis Girişinin Çapları.md",
+    "Kadın doğum/Anatomi/Pelvis Çapları/Untitled.md",
     "Untitled.md",
-    "Olgular/akılcı ilaç diyabet ve ht.md"
+    "Kadın doğum/Anatomi/Pelvis Girişinin Çapları.md",
+    "Kadın doğum/Anatomi/Klitoris tümör.md",
+    "Kadın doğum/Anatomi/Pelvis Çapları.md"
   ]
 }

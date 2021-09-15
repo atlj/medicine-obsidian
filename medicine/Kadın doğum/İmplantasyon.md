@@ -1,0 +1,1 @@
+en önemli hormon **progesteron**dur ve mid-luteal fazda meydana gelir 
