@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "93aa7dd53e408a60",
+        "id": "f94cfe10203b2fb0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kadın doğum/Anatomi/Prezentasyon.md",
-            "mode": "source"
+            "file": "Kadın doğum/Fetal distres sendromu.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tuber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207
   },
   "right": {
     "id": "f7bd61e53f13f8af",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kadın doğum/Anatomi/Prezentasyon.md",
+                "file": "Kadın doğum/Fetal distres sendromu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,25 +87,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "93aa7dd53e408a60",
+  "active": "f94cfe10203b2fb0",
   "lastOpenFiles": [
-    "Kadın doğum/Anatomi/Untitled.md",
-    "Kadın doğum/Anatomi/Doğum yolu ve objesi.md",
-    "Kadın doğum/Anatomi/Pelvis Çapları/Orta Pelvisin Çapı.md",
-    "Kadın doğum/Anatomi/Pelvis Çapları/Pelvis Çıkışının Çapı.md",
-    "Kadın doğum/Anatomi/Pelvis Çapları/Pelvis Girişinin Çapları.md",
-    "Kadın doğum/Anatomi/Pelvis Çapları/Untitled.md",
-    "Untitled.md",
-    "Kadın doğum/Anatomi/Pelvis Girişinin Çapları.md",
-    "Kadın doğum/Anatomi/Klitoris tümör.md",
-    "Kadın doğum/Anatomi/Pelvis Çapları.md"
+    "Kadın doğum/Fetal distres sendromu.md",
+    "Kadın doğum/Intrapartum fetal değerlendirme.md",
+    "Kadın doğum/Deselerasyon.md",
+    "Kadın doğum/Akselerasyon.md",
+    "Kadın doğum/Non stress test.md",
+    "Kadın doğum/Pelvik diyafram.md",
+    "Kadın doğum/Normal Doğum -- sınav sorusu.md",
+    "Kadın doğum/Fetal fibronektin.md",
+    "Kadın doğum/Antenatal takip *Sınav sorusu.md",
+    "Kadın doğum/Untitled.md"
   ]
 }

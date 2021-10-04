@@ -1,0 +1,1 @@
+Papanicolaou testi serviksin etrafından sürüntü alınmasıdır. Serviksin etrafındaki metaplazik bölgede anormal hücrelere bakılır. Serviks kanseri için test methodudur.

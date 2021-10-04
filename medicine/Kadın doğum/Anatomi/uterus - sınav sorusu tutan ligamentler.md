@@ -5,3 +5,7 @@ servik ve isthmusdan başlayıp yandan başlar, [[Kardinal ligament]] tutar, ![[
 round ligament
 
 broad ligament
+
+bunların klinik isimlerini de anatomik isimlerini de bil
+
+pelvik diyaftam kasları kesin soru

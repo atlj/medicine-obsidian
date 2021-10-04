@@ -1,0 +1,1 @@
+serviksin ağızındaki mukozal tıkaç. çok az miktarda kan içerir. gebelikten saatler önce de atılabilir haftalar öncesinde de

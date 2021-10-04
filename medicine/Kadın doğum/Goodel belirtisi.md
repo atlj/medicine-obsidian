@@ -1,0 +1,1 @@
+serviksin yumuşaması durumudur.
